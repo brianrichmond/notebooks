@@ -2,4 +2,4 @@
 
 Notebooks folder for Jupyter notebooks
 
-(more details coming)
+(more details coming soon)
